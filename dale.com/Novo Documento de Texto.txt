@@ -1,0 +1,11 @@
+    <div class="fundo"> 
+        <div class="logo">Dale.com</div>
+           <div class="navegacao">
+             <a class="Cadastrar" href="">Cadastrar</a>
+             <a class="login" href="">Login</a>  
+             <a class="carrinho" href="">Ver carrinho</a>
+         </div>
+        </div>
+  
+  -moz-box-shadow: 0vw 20vw 20vw #86CEEB;
+-webkit-box-shadow: 0vw 20vw 20vw #86CEEB;

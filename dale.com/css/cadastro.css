@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body {
+    padding: 0;
+    margin: 0;
+}
+.fundo {
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 49vw;
+}
+nav{
+    height: 5vw;
+    background-color:#ff980080;
+}
+.nav2 {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+.nav2 li {
+    float: right;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    font-size: 2vw;
+    font-family: monospace;
+    color: black;
+}
+.nav2 a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.logo img{ 
+    height: 10vw;
+    margin-left: -99vw;
+    margin-top: -6vw;
+}
+.nome{
+    height: 7vw;
+    width: 40vw;
+    font-size: 5vw;
+}
+.sobrenome{
+    height: 7vw;
+    width: 40vw;
+    font-size: 5vw;
+}
+.cpf{
+    height: 7vw;
+    width: 40vw;
+    font-size: 5vw;
+}
+
+.email{
+    height: 7vw;
+    width: 40vw;
+    font-size: 5vw;
+}
+.senha{
+    height: 7vw;
+    width: 40vw;
+    font-size: 5vw;
+}
+.confirmacao{
+    height: 7vw;
+    width: 40vw;
+    font-size: 5vw;
+}

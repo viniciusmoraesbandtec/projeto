@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body {
+    padding: 0;
+    margin: 0;
+}
+.fundo {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 49vw;
+}
+nav{
+    height: 5vw;
+    background-color:#ff980080;
+}
+.nav2 {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+.nav2 li {
+    float: right;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    font-size: 2vw;
+    font-family: monospace;
+    color: black;
+}
+.nav2 a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.logo img{ 
+    height: 10vw;
+    margin-left: -99vw;
+    margin-top: -6vw;
+}
+.jogos{
+   
+    background-color: #ffffff;
+    height: 33vw;
+    width: 40vw;
+    margin-left: 28vw;
+    margin-top: 5vw;
+    border-radius: 1vw;
+
+    
+}
+.jogos h2 {
+    color: rgb(0, 0, 0);
+     text-align: center;
+    font-size: 3vw;
+    font-family: Stencil Std, fantasy;
+
+
+}
+.nets{
+height: 8vw;
+width: 8vw;
+}
+.houston{
+    height: 8vw;
+    width: 8vw;
+    margin-top: 0vw;
+    margin-left: 10vw;
+}
+
+.celtics{
+    height: 8vw;
+    width: 8vw;
+    margin-top: 0vw;
+    margin-left: 10vw;
+}
+
+.lakers{
+    height: 8vw;
+    width: 8vw;
+    margin-top: 0vw;
+    margin-left: 10vw;
+}
+
+.golden{
+height: 8vw;
+width: 8vw;
+}
+.clippers{
+height: 8vw;
+width: 8vw;
+}
+.x1{
+    height: 4vw;
+    width: 4vw;
+}
+.x2{
+    height: 4vw;
+    width: 4vw;
+}
+.x3{
+    height: 4vw;
+    width: 4vw;
+}
+.destaques{
+    margin-top: -33vw;
+    background-color: #ffffff;
+    height: 33vw;
+    width: 22vw;
+    border-radius: 1vw;
+}
+.destaques h2{
+    color: rgb(0, 0, 0);
+    font-size: 2vw;
+    font-family: initial;
+    text-align: center;
+    font-family: Stencil Std, fantasy;
+}
+.escalacao{
+    background-color: #ffffff;
+    height: 33vw;
+    width: 22vw;
+    margin-top: -33vw;
+    margin-left: 78vw;
+    border-radius: 1vw;
+}
+.escalacao h2{
+    color: rgb(0, 0, 0);
+    font-size: 2vw;
+    font-family: initial;
+    text-align: center;
+    font-family: Stencil Std, fantasy;
+}
+.escalacao img{
+    height: 33vw;
+    width: 22vw;
+}
+
